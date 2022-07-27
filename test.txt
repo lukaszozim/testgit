@@ -2,7 +2,6 @@ siema
 oto nowy plik
 
 head
-
 nowa sekcja
 
 najnowsza sekcja
