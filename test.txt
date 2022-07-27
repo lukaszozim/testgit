@@ -1,18 +1,11 @@
 siema
-
-====dodalem komentarz
-=======
-hello
-
-hej
-
-=======
-
+oto nowy plik
+head
 
 nowa sekcja
 
-
-============
-
 najnowsza sekcja
+
+
+stopka
 
