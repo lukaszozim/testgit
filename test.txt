@@ -6,11 +6,13 @@ oto nowy plik
 </head>
 
 <body>
-	nowa sekcja
+  nowa sekcja
+
 
 	najnowsza sekcja
 
 </body>
+
 
 stopka
 
