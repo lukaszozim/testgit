@@ -2,7 +2,7 @@ siema
 oto nowy plik
 
 <head>
-
+ Tytul
 </head>
 
 nowa sekcja
