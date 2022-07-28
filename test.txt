@@ -4,11 +4,13 @@ oto nowy plik
 <head>
  Tytul
 </head>
-<body>
-nowa sekcja
 
-najnowsza sekcja
+<body>
+	nowa sekcja
+
+	najnowsza sekcja
 
 </body>
+
 stopka
 
