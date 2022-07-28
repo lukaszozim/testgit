@@ -10,8 +10,8 @@ oto nowy plik
 <section>
   nowa sekcja
 
+  najnowsza sekcja
 
-najnowsza sekcja
 </section>
 </body>
 
