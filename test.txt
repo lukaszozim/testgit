@@ -1,7 +1,10 @@
 siema
 oto nowy plik
 
-head
+<head>
+
+</head>
+
 nowa sekcja
 
 najnowsza sekcja
