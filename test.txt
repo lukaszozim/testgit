@@ -16,5 +16,5 @@ oto nowy plik
 </body>
 
 
-stopka
+Usuwam stopkę
 
