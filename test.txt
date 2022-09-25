@@ -9,22 +9,12 @@ oto nowy plik
 
 <section>
   nowa sekcja
-
+	call nowaFunkcja();
   najnowsza sekcja
 
 </section>
 </body>
 
-
-Znowu ma zostać
-
-zmiana 1 stash
-
-zmiana stash 2
-
-
-Pobranie pliku test2.txt
-i wszystko jest oK
 
 
 
