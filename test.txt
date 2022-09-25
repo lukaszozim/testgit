@@ -18,5 +18,9 @@ oto nowy plik
 
 Znowu ma zostać
 
+zmiana 1 stash
+
+zmiana stash 2
+
 
 
