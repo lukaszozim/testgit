@@ -1,1 +1,3 @@
 Nowy
+
+nowa funkcja();
