@@ -24,6 +24,8 @@ zmiana stash 2
 
 
 Pobranie pliku test2.txt
+i wszystko jest oK
+
 
 
 
