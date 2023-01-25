@@ -3,3 +3,5 @@ Nowy
 nowa funkcja();
 
 dodaje credentials();
+
+drugie credentiale();
