@@ -1,4 +1,4 @@
-Nowy
+Nowy stary stary
 
 nowa funkcja();
 
