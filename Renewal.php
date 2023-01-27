@@ -7,3 +7,7 @@ function renewal(){
 function ContractRenewal(){
     return 'Contract-renewal';
 }
+
+function Calculation(){
+    return 'calculation';
+}
