@@ -10,3 +10,7 @@ function siema(){
     hello();
     echo 'siema';
 }
+
+function renewal(){
+    return new Renewal();
+}
