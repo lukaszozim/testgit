@@ -5,5 +5,6 @@ function hello(){
 }
 
 function siema(){
+    hello();
     echo 'siema';
 }
