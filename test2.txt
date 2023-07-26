@@ -1,6 +1,1 @@
-Nowy Nowy Nowy
-
-
-nowa funkcja();
-
-dodaje credentials();
+Poprawka po rebase
