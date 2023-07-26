@@ -1,19 +1,4 @@
-siema
-oto nowy plik
-
-<head>
- Tytul
-</head>
-
-<body>
-
-<section>
-  nowa sekcja
-	call nowaFunkcja();
-  najnowsza sekcja
-
-</section>
-</body>
+Rebase-2
 
 
 
